@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "lib": ["DOM", "DOM.Iterable", "es2020"],
+    "target": "es2020",
+    "moduleResolution": "node16",
+    "skipLibCheck": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "declaration": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "useDefineForClassFields": true,
+    "noEmit": true,
+    "outDir": "./dist"
+  },
+  "ts-node": {
+    "esm": true
+  }
+}

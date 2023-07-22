@@ -1,0 +1,10 @@
+{
+  "todos": [
+    {
+      "id": "5d94d581-b042-46e4-9f3b-5f0d30d95e02",
+      "user_id": "123",
+      "title": "Todo #4",
+      "completed": false
+    }
+  ]
+}
